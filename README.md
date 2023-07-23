@@ -4,10 +4,10 @@ Here's what you need to know:
 
 loves gaming
 
-codes in python and c#
+codes in [__]
 
 loves eating
 
-biking = coolio
+running = nice
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GameBoyYeet)](https://github.com/anuraghazra/github-readme-stats)
